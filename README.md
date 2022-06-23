@@ -26,19 +26,22 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br><br>
-</div>
-
   
 ![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehyuh318&layout=compact)](https://github.com/daehyuh318/)   
   
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=PatrascheProject)](https://github.com/daehyuh318/PatrascheProject) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=ZedProject)](https://github.com/daehyuh318/ZedProject) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=LidarProject)](https://github.com/daehyuh318/LidarProject) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=TrafficLightProject)](https://github.com/daehyuh318/TrafficLightProject)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=University-API)](https://github.com/daehyuh318/University-API)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=YoutubeProject)](https://github.com/daehyuh318/YoutubeProject)
+  <br><br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B4B4B4&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=PatrascheProject)](https://github.com/daehyuh318/PatrascheProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=TrafficLightProject)](https://github.com/daehyuh318/TrafficLightProject)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=ZedProject)](https://github.com/daehyuh318/ZedProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=LidarProject)](https://github.com/daehyuh318/LidarProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=University-API)](https://github.com/daehyuh318/University-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=YoutubeProject)](https://github.com/daehyuh318/YoutubeProject)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B4B4B4&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
+
 
