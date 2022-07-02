@@ -28,10 +28,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehyuh318&layout=compact)](https://github.com/daehyuh318/)   
   <br>
 </div>
-<h3 align=center>🤪I'm manipulating the hits, Just for fun !🤪
+<h2 align=center>🤪I'm manipulating the hits, Just for fun !🤪
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh318%2Fdaehyuh318&count_bg=%23B4B4B4&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</h3>
+</h2>
 
 ```python
 import requests
