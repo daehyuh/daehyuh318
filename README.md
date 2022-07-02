@@ -66,19 +66,16 @@ while True:
 </div>
 
 
-<h1 align=center>📚 Daehyuh318`s Projects 📚</h1>
-
-<div align=center>
-<br>
+<h3 align=center>📚 Daehyuh318`s Projects 📚</h3>
 <!--
+<div align=center>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=PatrascheProject)](https://github.com/daehyuh318/PatrascheProject)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=ZedProject)](https://github.com/daehyuh318/ZedProject)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=LidarProject)](https://github.com/daehyuh318/LidarProject)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=TrafficLightProject)](https://github.com/daehyuh318/TrafficLightProject)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=University-API)](https://github.com/daehyuh318/University-API)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=Self-Check-Macro)](https://github.com/daehyuh318/Self-Check-Macro)   
--->
-<br>
 </div>
+-->
 
 
