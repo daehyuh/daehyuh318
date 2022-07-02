@@ -43,9 +43,15 @@
 
 <br>
 </div>
+<h1 align=center>🤪I'm manipulating the hits, Just for fun !🤪
 
-<h1 align=center>🤪I'm manipulating the hits, Just for fun !🤪</h1>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh318%2Fdaehyuh318&count_bg=%23B4B4B4&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</h1>
 
+### I'm raising my ranking https://hits.seeyoufarm.com/#rank   
+### 6/29 Start code   
+### 7/1 10th place     
+### 7/2 9th place   
 <br>
 
 ```python
