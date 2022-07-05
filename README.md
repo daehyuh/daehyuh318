@@ -1,17 +1,19 @@
-<h1 align=center>📚 Daehyuh318`s Stacks 📚<br><br>
-  
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=shark&color=638fda&height=300&section=header&text=Daehyuh318&fontSize=70&&fontColor=ffffff" />
 
 ![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehyuh318&layout=compact)](https://github.com/daehyuh318/)
-</h1>
-
+</div>
 <div> 
-  <h1>Workspace Spaces<br><br>
+  <h1 align=center>💻 Workspace Spaces 💻<br><br> </h1>
+  <h2>Graphics Card<br><br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">&nbsp
+  </h2>
+  <h2>CPU<br><br>
   <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=Core_i7_12th&logoColor=white">&nbsp
+  </h2>
   </h1>
-
+<h1 align=center>📚 Daehyuh318`s Stacks 📚<br><br> </h1>
   <h2>Language<br><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp
