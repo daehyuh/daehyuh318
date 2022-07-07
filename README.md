@@ -5,14 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehyuh318&layout=compact)](https://github.com/daehyuh318/)
 </div>
 <div> 
-  <h1 align=center>💻 Workspace Spaces 💻<br><br> </h1>
-  <h2>Graphics Card<br><br>
-  <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">&nbsp
-  </h2>
-  <h2>CPU<br><br>
-  <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=Core_i7_12th&logoColor=white">&nbsp
-  </h2>
-  </h1>
 
 <h1 align=center>📚 Daehyuh318`s Stacks 📚<br><br> </h1>
   <h2>Language<br><br>
@@ -47,7 +39,14 @@
   </h2>
   Now I'm interested in Python and artificial intelligence(AI)<br><br>
 </div>
-
+  <h1 align=center>💻 Workspace Spaces 💻<br><br> </h1>
+  <h2>Graphics Card<br><br>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">&nbsp
+  </h2>
+  <h2>CPU<br><br>
+  <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=Core_i7_12th&logoColor=white">&nbsp
+  </h2>
+  </h1>
 
 
 <h1 align=center>
