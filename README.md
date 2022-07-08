@@ -85,7 +85,8 @@ I'm raising my ranking https://hits.seeyoufarm.com/#rank
 ### 👑 7/2 8th 👑   
 ### 👑 7/2 7th 👑   
 ### 👑 7/5 6th 👑   
-
+### 👑 7/8 5th 👑 
+### 👑 7/9 4th 👑 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh318%2Fdaehyuh318&count_bg=%23638FDA&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits+%28%EC%98%A4%EB%8A%98+%EB%B0%A9%EB%AC%B8%EC%9E%90+%2F+%EC%A0%84%EC%B2%B4+%EB%B0%A9%EB%AC%B8%EC%9E%90%29&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
