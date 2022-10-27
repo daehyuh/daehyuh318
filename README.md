@@ -1,10 +1,6 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=shark&color=638fda&height=300&section=header&text=Daehyuh318&fontSize=70&&fontColor=ffffff" />
 
-![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehyuh318&layout=compact)](https://github.com/daehyuh318/)
-</div>
-<div> 
 
 <h1 align=center>📚 Daehyuh318`s Stacks 📚<br><br> </h1>
   <h2>Language<br><br>
