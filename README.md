@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=shark&color=638fda&height=300&section=header&text=Daehyuh318&fontSize=70&&fontColor=ffffff" />
 
-  <h1> Department of Computer Science and Engineering, Hankuk University of Foreign Studies </h1>
+  <h1> Hankuk University of Foreign Studies. Division of Computer Engineering </h1>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)](https://solved.ac/daehyuh/)
 
