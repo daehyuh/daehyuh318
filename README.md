@@ -53,8 +53,8 @@
   </div>
   
   <h1> Now I'm interested in Python and artificial intelligence(AI)<br><br></h1>
-  
-  <h1 align=center>💻 Workspace Spaces 💻<br><br> </h1>
+
+  <h1>💻 개발환경 💻 </h1>
   <h2>Graphics Card<br><br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">&nbsp
   </h2>
