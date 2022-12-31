@@ -2,46 +2,58 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=638fda&height=300&section=header&text=Daehyuh318&fontSize=70&&fontColor=ffffff" />
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)](https://solved.ac/daehyuh/)
-  
-  <h1> 🎓학력/경력🎓 </h1>
-  <h2> 데이터 엔지니어 (주)비타소프트 2021.09.01 ~ 2023.02.29 </h2>
-  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering </h2>
-  <h2> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h2>
-  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering </h2>
+</div>
 
-<h1 align=center>📚 기술스택 📚<br><br> </h1>
-  <h2>Language<br><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">&nbsp
-  </h2>
-  <h2>DBMS<br><br>
+  <h1> 🎓학력/경력🎓 </h1>
+  <div align=center>
+  <h2> 데이터 엔지니어 (주)비타소프트 2021.09.01 ~ 2023.02.29 </h2>
+  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering 2021.09.01 ~ 2023.02.29</h2>
+  <h2> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h2>
+  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering 2023.02.01 ~ NOW</h2>
+</div>
+
+
+<h1>📚 기술스택 📚</h1>
+  <h2 align=center> Language </h2>
+  <div display = flex>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">
+  </div>
+  <h2 align=center> DBMS </h2>
+  <div display = flex>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">&nbsp
-  </h2>
-  <h2>Operating System<br><br>
+  </div>
+  
+  <h2 align=center> Operating System </h2>
+  <div display = flex>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=black">&nbsp
-  </h2>
-  <h2>Web Services<br><br>
+  </div>
+  
+  <h2 align=center>Web Services</h2>
+  <div display = flex>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">&nbsp
-  </h2>
-
-  <h2>DVCS<br><br>
+  </div>
+  
+  <h2 align=center>DVCS</h2>
+  <div display = flex>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  </h2>
-  Now I'm interested in Python and artificial intelligence(AI)<br><br>
-</div>
+  </div>
+  
+  <h1> Now I'm interested in Python and artificial intelligence(AI)<br><br></h1>
+  
   <h1 align=center>💻 Workspace Spaces 💻<br><br> </h1>
   <h2>Graphics Card<br><br>
   <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">&nbsp
