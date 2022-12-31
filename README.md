@@ -7,9 +7,9 @@
   <h1> 🎓학력/경력🎓 </h1>
   <div align=center>
   <h2> 데이터 엔지니어 (주)비타소프트 2021.09.01 ~ 2023.02.29 </h2>
-  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering 2021.09.01 ~ 2023.02.29</h2>
+  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering</h2>
   <h2> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h2>
-  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering 2023.02.01 ~ NOW</h2>
+  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering</h2>
 </div>
 
 
