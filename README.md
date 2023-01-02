@@ -1,14 +1,14 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=shark&color=638fda&height=300&section=header&text=Daehyuh318&fontSize=70&&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=Daehyuh&fontSize=70&&fontColor=ffffff" />
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)](https://solved.ac/daehyuh/)
 </div>
 
   <h1> 🎓학력/경력🎓 </h1>
   <div align=center>
-  <h2> 데이터 엔지니어 (주)비타소프트 2021.09.01 ~ 2023.02.29 </h2>
+  <h3> 데이터 엔지니어 (주)비타소프트 2021.09.01 ~ 2023.02.29 </h3>
   <h2> Hankuk University of Foreign Studies. Division of Computer Engineering</h2>
-  <h2> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h2>
+  <h3> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h3>
   <h2> Hankuk University of Foreign Studies. Division of Computer Engineering</h2>
 </div>
 
@@ -52,21 +52,32 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
   
-  <h1> Now I'm interested in Python and artificial intelligence(AI)<br><br></h1>
+  <h3> Now I'm interested in Python and artificial intelligence(AI)<br></h3>
 
+
+<h1>💰 수행 사업/프로젝트 💰</h1>
+<div align=center>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=PatrascheProject)](https://github.com/daehyuh318/PatrascheProject)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=ZedProject)](https://github.com/daehyuh318/ZedProject)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=LidarProject)](https://github.com/daehyuh318/LidarProject)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=TrafficLightProject)](https://github.com/daehyuh318/TrafficLightProject)     
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=University-API)](https://github.com/daehyuh318/University-API)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=Self-Check-Macro)](https://github.com/daehyuh318/Self-Check-Macro)   
+
+</div>
   <h1>💻 개발환경 💻 </h1>
-  <h2>Graphics Card<br><br>
-  <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">&nbsp
-  </h2>
-  <h2>CPU<br><br>
-  <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=Core_i7_12th&logoColor=white">&nbsp
+  <h2 align=center> Graphics Card </h2>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">
+  <h2 align=center> CPU </h2>
+  <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=Core_i7_12th&logoColor=white">
   </h2>
   </h1>
 
 
-<h1 align=center>
-🤪I'm manipulating the hits, Just for fun !🤪<br>
-</h1>
+
+<h1>🤪 조회수 조작 코드 🤪</h1>
+<h2 align=center>I'm manipulating the hits, Just for fun !</h2>
 
 ```python
 import requests
@@ -104,19 +115,6 @@ I'm raising my ranking https://hits.seeyoufarm.com/#rank
 ### 👑 7/9 4th 👑 
 ### 👑 7/18 5th 👑 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh318%2Fdaehyuh318&count_bg=%23638FDA&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=Github+%28%EC%98%A4%EB%8A%98+%EB%B0%A9%EB%AC%B8%EC%9E%90+%2F+%EC%A0%84%EC%B2%B4+%EB%B0%A9%EB%AC%B8%EC%9E%90%29&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
-
-<h1 align=center>📚 Daehyuh318`s Projects 📚</h1>
-
-<div align=center>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=PatrascheProject)](https://github.com/daehyuh318/PatrascheProject)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=ZedProject)](https://github.com/daehyuh318/ZedProject)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=LidarProject)](https://github.com/daehyuh318/LidarProject)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=TrafficLightProject)](https://github.com/daehyuh318/TrafficLightProject)      
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=University-API)](https://github.com/daehyuh318/University-API)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=Self-Check-Macro)](https://github.com/daehyuh318/Self-Check-Macro)   
 </div>
 
 
