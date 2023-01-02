@@ -1,7 +1,14 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=Daehyuh&fontSize=70&&fontColor=ffffff" />
   
+  <div display = flex>
+    
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)](https://solved.ac/daehyuh/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehyuh318&layout=compact)](https://github.com/daehyuh318/)
+  </div>
+
+  ![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=tokyonight)
+  
 </div>
 
   <h1> 🎓학력 / 경력🎓 </h1>
