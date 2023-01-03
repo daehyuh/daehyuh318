@@ -5,8 +5,8 @@
   <div align=center>
   <h3> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h3>
   <h2> Hankuk University of Foreign Studies. Division of Computer Engineering</h2>
-  <h3> (주)비타소프트 2021.09.01 ~ 2023.02.29 데이터 엔지니어 </h3>
-  <h2> VITASOFT CO. Data Engineer </h2>
+  <h3> (주)비타소프트 2021.09.01 ~ 2023.02.29 인공지능부 / 데이터 엔지니어 </h3>
+  <h2> VITASOFT CO. Artificial Intelligence Department / Data Engineer </h2>
   </div>
 
   <div display = flex>
