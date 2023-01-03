@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현 / 大鉉&fontSize=70&&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20/%20大鉉&fontSize=70&&fontColor=ffffff" />
 
   <h1> 🎓학력 / 경력🎓 </h1>
   <div align=center>
