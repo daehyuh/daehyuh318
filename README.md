@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20/%20大鉉&fontSize=70&&fontColor=ffffff" />
 
-  <h1> 🎓학력 / 경력🎓 </h1>
+  <h1> 🎓 학력 / 경력 🎓 </h1>
   <div align=center>
   <h3> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h3>
   <h2> Hankuk University of Foreign Studies. Division of Computer Engineering</h2>
