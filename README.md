@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20大鉉&fontSize=70&&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20/%20大鉉&fontSize=70&&fontColor=ffffff" />
 
   <h1> 🎓학력 / 경력🎓 </h1>
   <div align=center>
@@ -120,6 +120,5 @@ I'm raising my ranking https://hits.seeyoufarm.com/#rank
 ### 👑 7/18 5th 👑 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh318%2Fdaehyuh318&count_bg=%23638FDA&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=Github+%28%EC%98%A4%EB%8A%98+%EB%B0%A9%EB%AC%B8%EC%9E%90+%2F+%EC%A0%84%EC%B2%B4+%EB%B0%A9%EB%AC%B8%EC%9E%90%29&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-
 
 
