@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
   
-  <h3> Now I'm interested in Python and artificial intelligence(AI)<br></h3>
+  <h3> Now I'm interested in Python and Artificial Intelligence(AI)<br></h3>
 
 
 <h1>💰 수행 사업/프로젝트 💰</h1>
