@@ -1,14 +1,15 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20/%20大鉉&fontSize=70&&fontColor=ffffff" />
-
+</div>
+  
   <h1> 🎓 학력 / 경력 🎓 </h1>
   <div align=center>
-  <h3> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h3>
-  <h2> Hankuk University of Foreign Studies. Division of Computer Engineering</h2>
-  <h3> (주)비타소프트 인공지능부 / 데이터 엔지니어 2021.09.01 ~ 2023.02.29 </h3>
-  <h2> VITASOFT CO. Artificial Intelligence Department / Data Engineer </h2>
+  <h2> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h2>
+  <h3> Hankuk University of Foreign Studies. Division of Computer Engineering</h3>
+  <h2> (주)비타소프트 인공지능부 / 데이터 엔지니어 2021.09.01 ~ 2023.02.29 </h2>
+  <h3> VITASOFT CO. Artificial Intelligence Department / Data Engineer </h3>
   </div>
-
+<div align=center>
   <div display = flex>
     
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)](https://solved.ac/daehyuh/)
