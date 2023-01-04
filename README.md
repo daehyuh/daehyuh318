@@ -1,7 +1,6 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20/%20大鉉&fontSize=70&&fontColor=ffffff" />
 </div>
-  
   <h1> 🎓 학력 / 경력 🎓 </h1>
   <div align=center>
   <h2> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h2>
@@ -58,6 +57,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
+  <h2 align=center>관심분야</h2>
+  
+  ## 1. AI 개발
+  ## 2. DATA 구축 분야
+  ## 3. 자동화 프로그램 개발 분야
+  ## 4. 웹, 앱 서비스 분야
   
   <h3> Now I'm interested in Python and Artificial Intelligence(AI)<br></h3>
 
