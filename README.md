@@ -21,7 +21,7 @@
 </div>
 
 <h1>📚 기술스택 📚</h1>
-  <h2 align=center> Language </h2>
+  <h2 align=center> Language / Framework </h2>
   <div display = flex>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">&nbsp
   </div>
   
-  <h2 align=center> Operating System </h2>
+  <h2 align=center> OS </h2>
   <div display = flex>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
