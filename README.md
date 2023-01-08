@@ -11,12 +11,18 @@
   </div>
 </div>
 
-  <h1> 🎓 학력 / 경력 🎓 </h1>
+  <h1> 🎓 학력 🎓 </h1>
   <div align=center>
-  <h2> 한국외국어대학교 컴퓨터공학부 2023.02.01 ~ 현재</h2>
-  <h3> Hankuk University of Foreign Studies. Division of Computer Engineering</h3>
-  <h2> (주)비타소프트 인공지능부 / 데이터 엔지니어 2021.09.01 ~ 2023.02.29 </h2>
-  <h3> VITASOFT CO. Artificial Intelligence Department / Data Engineer </h3>
+  <h2> 한양공업고등학교 컴퓨터네트워크학과, 2020.03.02 ~ 2023.01.05</h2>
+  <h3> Hanyang Technical High School. Department of Computer Network, 2020.03.02 ~ 2023.01.05</h3>
+  <h2> 한국외국어대학교 컴퓨터공학부, 2023.02.01 ~ 현재</h2>
+  <h3> Hankuk University of Foreign Studies. Division of Computer Engineering, 2023.02.01 ~ NOW</h3>
+  </div>
+  
+  <h1> 🏢 경력 🏢 </h1>
+  <div align=center>
+  <h2> (주)비타소프트 인공지능부 데이터 엔지니어, 2021.09.01 ~ 2023.02.29 </h2>
+  <h3> VITASOFT CO. Artificial Intelligence Department of Data Engineer, 2021.09.01 ~ 2023.02.29 </h3>
   </div>
 
 <h1>📚 기술스택 📚</h1>
@@ -78,6 +84,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=Self-Check-Macro)](https://github.com/daehyuh318/Self-Check-Macro)   
 
 </div>
+
+<!--
   <h1>💻 개발환경 💻 </h1>
   <h2 align=center> Graphics Card </h2>
   <img src="https://img.shields.io/badge/NVIDIA-RTX3080ti-76B900?style=for-the-badge&logo=RTX-3080ti&logoColor=white">
@@ -85,6 +93,7 @@
   <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=Core_i7_12th&logoColor=white">
   </h2>
   </h1>
+-->
 
 <h1>🤪 방문수 조작 코드 🤪</h1>
 <h2 align=center>I'm manipulating the hits, Just for fun !</h2>
@@ -114,7 +123,7 @@ while True:
 <div align=center>
 
 I'm raising my ranking https://hits.seeyoufarm.com/#rank   
-
+<!--
 ### 🏃 6/29 Run code 🏃   
 ### 👑 7/1 10th 👑     
 ### 👑 7/2 9th 👑   
@@ -123,7 +132,8 @@ I'm raising my ranking https://hits.seeyoufarm.com/#rank
 ### 👑 7/5 6th 👑   
 ### 👑 7/8 5th 👑 
 ### 👑 7/9 4th 👑 
-### 👑 7/18 5th 👑 
+### 👑 7/18 5th 👑
+-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh318%2Fdaehyuh318&count_bg=%23638FDA&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=Github+%28%EC%98%A4%EB%8A%98+%EB%B0%A9%EB%AC%B8%EC%9E%90+%2F+%EC%A0%84%EC%B2%B4+%EB%B0%A9%EB%AC%B8%EC%9E%90%29&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
