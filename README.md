@@ -2,6 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20&fontSize=70&&fontColor=ffffff" />
 </div>
 
+## 📖[고등학교] 에서 학업과 취업를 동시에 시작하였고
+## 💻[개발자] 가 되었지만, 지식과 역량에 부족함을 느껴
+## 🎓[대학교] 현재 컴퓨터공학부에 재학하며 다시 성장하고 있습니다.
+### 다시 개발자 가 되고 싶습니다.
+
 <div align=center>
   <div display = flex>
     
