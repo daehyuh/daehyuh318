@@ -18,16 +18,16 @@
 
   <h1> 🎓 학력 🎓 </h1>
   <div align=center>
-  <h2> 한국외국어대학교 컴퓨터공학부, 2023.02.01 ~ 현재</h2>
-  <h3> Hankuk University of Foreign Studies. Division of Computer Engineering, 2023.02.01 ~ NOW</h3>
+  <h2> 한국외국어대학교 컴퓨터공학부, 2023.02.01 ~ </h2>
+  <h3> Hankuk University of Foreign Studies. Division of Computer Engineering, 2023.02.01 ~ </h3>
   <h2> 한양공업고등학교 컴퓨터네트워크학과, 2020.03.02 ~ 2023.01.05</h2>
   <h3> Hanyang Technical High School. Department of Computer Network, 2020.03.02 ~ 2023.01.05</h3>
   </div>
   
   <h1> 🏢 경력 🏢 </h1>
   <div align=center>
-  <h2> (주)비타소프트 인공지능부 데이터 엔지니어, 2021.09.01 ~ 현재 </h2>
-  <h3> VITASOFT CO. Artificial Intelligence Department of Data Engineer, 2021.09.01 ~ NOW </h3>
+  <h2> (주)비타소프트 인공지능부 데이터 엔지니어, 2021.09.01 ~ </h2>
+  <h3> VITASOFT CO. Artificial Intelligence Department of Data Engineer, 2021.09.01 ~ </h3>
   </div>
 
 <h1>📚 기술스택 📚</h1>
