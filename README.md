@@ -31,8 +31,8 @@
   
   <h1> 🏢 경력 🏢 </h1>
   <div align=center>
-  <h2> (주)비타소프트 인공지능부 데이터 엔지니어, 2021.09.01 ~ </h2>
-  <h3> VITASOFT CO. Artificial Intelligence Department of Data Engineer, 2021.09.01 ~ </h3>
+  <h2> (주)비타소프트 인공지능부 소프트웨어 & 데이터 엔지니어, 2021.09.01 ~ </h2>
+  <h3> VITASOFT CO. Artificial Intelligence Department of Software & Data Engineer, 2021.09.01 ~ </h3>
   </div>
 
 <h1>📚 기술스택 📚</h1>
