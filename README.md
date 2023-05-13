@@ -2,6 +2,25 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=300&section=header&text=대현%20&fontSize=70&&fontColor=ffffff" />
 </div>
 
+  <h1> 🎓 학력 🎓 </h1>
+  <div align=center>
+  <h2> 한국외국어대학교 컴퓨터공학부, 2023.02.01 ~ </h2>
+  <h3> Hankuk University of Foreign Studies. Division of Computer Engineering, 2023.02.01 ~ </h3>
+  <h2> 한양공업고등학교 컴퓨터네트워크학과, 2020.03.02 ~ 2023.01.05</h2>
+  <h3> Hanyang Technical High School. Department of Computer Network, 2020.03.02 ~ 2023.01.05</h3>
+  </div>
+  
+  <h1> 🏢 경력 🏢 </h1>
+  <div align=center>
+  <h2> 소프트웨어 마에스트로 14기 연수생, 2023.03.01 ~ </h2>
+  <h3> Software Maestro tranee 14th, 2021.09.01 ~ 2023.03.01</h3>
+  
+  <div align=center>
+  <h2> (주)비타소프트 인공지능부 소프트웨어 & 데이터 엔지니어, 2021.09.01 ~ </h2>
+  <h3> VITASOFT CO. Artificial Intelligence Department of Software & Data Engineer, 2021.09.01 ~ 2023.03.01</h3>
+  </div>
+
+
 ## 📖[고등학교] 에서 학업과 취업를 동시에 시작하였고
 ## 💻[개발자] 가 되었지만, 지식과 개발역량에 부족함을 느껴
 ## 🎓[대학교] 현재 컴퓨터공학부에 재학하며 다시 성장하고 있습니다.
@@ -22,20 +41,6 @@
     
   </div>
 </div>
-
-  <h1> 🎓 학력 🎓 </h1>
-  <div align=center>
-  <h2> 한국외국어대학교 컴퓨터공학부, 2023.02.01 ~ </h2>
-  <h3> Hankuk University of Foreign Studies. Division of Computer Engineering, 2023.02.01 ~ </h3>
-  <h2> 한양공업고등학교 컴퓨터네트워크학과, 2020.03.02 ~ 2023.01.05</h2>
-  <h3> Hanyang Technical High School. Department of Computer Network, 2020.03.02 ~ 2023.01.05</h3>
-  </div>
-  
-  <h1> 🏢 경력 🏢 </h1>
-  <div align=center>
-  <h2> (주)비타소프트 인공지능부 소프트웨어 & 데이터 엔지니어, 2021.09.01 ~ </h2>
-  <h3> VITASOFT CO. Artificial Intelligence Department of Software & Data Engineer, 2021.09.01 ~ 2023.03.01</h3>
-  </div>
 
 <h1>📚 기술스택 📚</h1>
   <h2 align=center> Language / Framework </h2>
