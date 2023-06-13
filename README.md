@@ -31,10 +31,10 @@
     + 학습 데이터 전처리 및 라벨링 검수
     + 인공지능 성능 평가
 ## Toy 프로젝트
-* **(2020) [코로나 자가진단 자동화 소프트웨어 개발](https://github.com/daehyuh318/Corona-self-check-Auto)**
+* **[(2020) 코로나 자가진단 자동화 소프트웨어 개발](https://github.com/daehyuh318/Corona-self-check-Auto)**
   - **PM, Developer**
     + 매일 아침 반복되는 코로나 자가진단을 자동화하는 소프트웨어 개발 프로젝트
-* **(2022) [공공데이터를 활용한 데이터 제공 API 개발](https://github.com/daehyuh318/University-API)**
+* **[(2022) 공공데이터를 활용한 데이터 제공 API 개발](https://github.com/daehyuh318/University-API)**
   - **PM, Developer**
     + 모든 대학교의 IT관련학과의 내신 등급컷을 취합하여 데이터베이스로 구축한후, 데이터를 공공데이터로 배포하는 프로젝트
 * **[(2023) 게임 리버싱(해킹) 연습 - GooseGooseDuck](https://github.com/daehyuh318/GooseGooseDuck)**
