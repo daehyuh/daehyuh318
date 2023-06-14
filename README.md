@@ -1,6 +1,4 @@
-# 대현(daehyuh318)
-![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현%20&fontSize=70&&fontColor=ffffff)
-
+![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)
 ![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=tokyonight)
 ![daehyuh318's profile](https://github-profile-trophy.vercel.app/?username=daehyuh318&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
