@@ -1,4 +1,4 @@
-![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)
+![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)    
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)
 ![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=tokyonight)
 ![daehyuh318's profile](https://github-profile-trophy.vercel.app/?username=daehyuh318&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
@@ -9,17 +9,17 @@
   - **1학기 재학중**
     + 2027년 졸업예정
 ## 활동
-* **(2023) 소프트웨어 마에스트로 14기**
+* **[(2023) 소프트웨어 마에스트로 14기](https://www.swmaestro.org/sw/main/contents.do?menuNo=200002)**
   - **수료중**
-    + 14기 연수생 대표
+    + [14기 연수생 대표](https://n.news.naver.com/mnews/article/029/0002804625?sid=105)
     + 14기 새싹들팀 팀장
 * **(2023 ~ ) 한국외국어대학교 컴퓨터공학부 학회 NC 1기**
   - **학회장**
     + 학회 설립
-* **(2023 ~ ) 한국외국어대학교 동아리 HUFSTORY**
+* **[(2023 ~ ) 한국외국어대학교 동아리 HUFSTORY](https://www.facebook.com/storyhufs/)**
   - **부원**
 ## 경력
-* **(2022.09 ~ 2023.03) 비타소프트**
+* **[(2022.09 ~ 2023.03) 비타소프트](http://www.vitasoft.co.kr/)**
   - **비타소프트 인공지능부 소프트웨어엔지니어**
 ## 자격
 * **(2022) 정보처리산업기사**
