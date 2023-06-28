@@ -3,11 +3,11 @@
 ![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=tokyonight)
 ![daehyuh318's profile](https://github-profile-trophy.vercel.app/?username=daehyuh318&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
 ## 교육
-* **(2020.02 ~ 2023.01) 한양공업고등학교 컴퓨터네트워크전공**
-  - **졸업**
 * **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
   - **1학기 재학중**
     + 2027년 졸업예정
+* **(2020.02 ~ 2023.01) 한양공업고등학교 컴퓨터네트워크전공**
+  - **졸업**
 ## 활동
 * **[(2023) 소프트웨어 마에스트로 14기](https://www.swmaestro.org/sw/main/contents.do?menuNo=200002)**
   - **수료중**
@@ -25,35 +25,37 @@
 * **(2022) 정보처리산업기사**
 * **(2020) ITQ 인터넷, 아래한글**
 ## 수상
+* **(2022) 교내 소프트웨어 공모전 (1위)**
+* **(2021) 교내 전공영어관련 알고리즘대회 (1위)**
+* **(2021) 교내 소프트웨어 공모전 (2위)** 
 * **(2020) 교내 소프트웨어 공모전 (1위)**
 * **(2020) 교내 전공영어관련 알고리즘대회 (2위)**
-* **(2021) 교내 소프트웨어 공모전 (2위)**
-* **(2021) 교내 전공영어관련 알고리즘대회 (1위)**
-* **(2022) 교내 소프트웨어 공모전 (1위)**
+
 ## 프로젝트
-* **[(2021) 신호등 데이터 시각화 응용 소프트웨어 개발](https://github.com/daehyuh318/TrafficLightProject)**
-  - **Developer**
-    + 개발 과정 전체
-* **[(2022) 에코 플랫폼 및 대형폐기물 수거시스템 구축 (광양시청)](https://gyeco.kr/main/main.do)**
-  - **QA**
-    + 테스트
 * **[(2022 ~ 2023) AI 기반의 전동운반차 자율주행 알고리즘 개발 (정부사업)](https://github.com/daehyuh318/PatrascheProject)**
   - **Developer**
     + 데이터 수집 센서/프로그램 개발(SoftWare, Embeded)
     + 학습 데이터 수집
     + 학습 데이터 전처리 및 라벨링 검수
     + 인공지능 성능 평가
+* **[(2022) 에코 플랫폼 및 대형폐기물 수거시스템 구축 (광양시청)](https://gyeco.kr/main/main.do)**
+  - **QA**
+    + 테스트  
+* **[(2021) 신호등 데이터 시각화 응용 소프트웨어 개발](https://github.com/daehyuh318/TrafficLightProject)**
+  - **Developer**
+    + 개발 과정 전체
 ## 토이 프로젝트
-* **[(2020) 코로나 자가진단 자동화 소프트웨어 개발](https://github.com/daehyuh318/Corona-self-check-Auto)**
-  - **PM, Developer**
-    + 매일 아침 반복되는 코로나 자가진단을 자동화하는 소프트웨어 개발 프로젝트
-* **[(2022) 공공데이터를 활용한 데이터 제공 API 개발](https://github.com/daehyuh318/University-API)**
-  - **PM, Developer**
-    + 모든 대학교의 IT관련학과의 내신 등급컷을 취합하여 데이터베이스로 구축한후, 데이터를 공공데이터로 배포하는 프로젝트
 * **[(2023) 게임 리버싱(해킹) 연습 - GooseGooseDuck](https://github.com/daehyuh318/GooseGooseDuck)**
   - **Practice**
     + 게임을 통해 소프트웨어를 디버깅하여 메모리를 변경하는 리버싱(해킹) 연습
     + ※연습방에서만 사용 하였음※
+* **[(2022) 공공데이터를 활용한 데이터 제공 API 개발](https://github.com/daehyuh318/University-API)**
+  - **PM, Developer**
+    + 모든 대학교의 IT관련학과의 내신 등급컷을 취합하여 데이터베이스로 구축한후, 데이터를 공공데이터로 배포하는 프로젝트
+* **[(2020) 코로나 자가진단 자동화 소프트웨어 개발](https://github.com/daehyuh318/Corona-self-check-Auto)**
+  - **PM, Developer**
+    + 매일 아침 반복되는 코로나 자가진단을 자동화하는 소프트웨어 개발 프로젝트
+
 ## Contact me
 
 email : <rkdeown10@naver.com> <daehyuh@gmail.com>   
