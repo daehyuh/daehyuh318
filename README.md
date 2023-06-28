@@ -31,7 +31,7 @@
 * **(2021) 교내 전공영어관련 알고리즘대회 (1위)**
 * **(2022) 교내 소프트웨어 공모전 (1위)**
 ## 프로젝트
-* **[(2021) 신호등 데이터 시각화 응용 소프트웨어 개발 (비공개)](https://github.com/daehyuh318/TrafficLightProject)**
+* **[(2021) 신호등 데이터 시각화 응용 소프트웨어 개발](https://github.com/daehyuh318/TrafficLightProject)**
   - **Developer**
     + 개발 과정 전체
 * **[(2022) 에코 플랫폼 및 대형폐기물 수거시스템 구축 (광양시청)](https://gyeco.kr/main/main.do)**
