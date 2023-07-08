@@ -1,6 +1,7 @@
 ![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)    
+![daehyuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh&show_icons=true&theme=tokyonight)   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)
-![daehyuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh&show_icons=true&theme=tokyonight)
+<img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ![daehyuh's profile](https://github-profile-trophy.vercel.app/?username=daehyuh&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
 ## 교육
 * **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
@@ -25,6 +26,7 @@
 * **(2022) 정보처리산업기사**
 * **(2020) ITQ 인터넷, 아래한글**
 ## 수상
+* **(2023) 한국외국어대학교 해커톤 대회(3위)**
 * **(2022) 교내 소프트웨어 공모전 (1위)**
 * **(2021) 교내 전공영어관련 알고리즘대회 (1위)**
 * **(2021) 교내 소프트웨어 공모전 (2위)** 
