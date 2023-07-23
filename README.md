@@ -4,7 +4,7 @@
 - **더욱더 많은 경험을 만들기위해 새로운 시작과 함께 퇴사 후 대학교에 진학하였습니다**
 - **진학이후 할 수 있는 모든 경험을 해보고 있는 중입니다**
   + **소프트웨어 마에스트로, 학회장, 동아리, 술자리/MT 등등...**
-### **이러한 모든 경험이 저의 경험치가 되고 있고 항상 새롭습니다 매일매일이 즐겁습니다**
+### **이러한 모든 경험이 저의 경험치가 되고 있습니다**
 ![daehyuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh&show_icons=true&theme=tokyonight)   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)
 <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
