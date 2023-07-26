@@ -6,6 +6,7 @@
   + **소프트웨어 마에스트로, 학회장, 동아리, 술자리/MT 등등...**
 ### **이러한 모든 경험이 저의 경험치가 되고 있습니다**
 ![daehyuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh&show_icons=true&theme=tokyonight)   
+![http://mazassumnida.wtf/api/generate_badge?boj=daehyuh]   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)
 <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ![daehyuh's profile](https://github-profile-trophy.vercel.app/?username=daehyuh&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)
