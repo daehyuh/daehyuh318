@@ -26,6 +26,8 @@
 * **(2023 ~ ) 한국외국어대학교 컴퓨터공학부 학회 NC 1기**
   - **학회장**
     + 학회 설립
+* **[(2023 ~ ) GOOGLE DEVELOPER STUDENT CLUB HFS]**
+  - **Core Member**
 * **[(2023 ~ ) 한국외국어대학교 동아리 HUFSTORY](https://www.facebook.com/storyhufs/)**
   - **부원**
 ## 경력
