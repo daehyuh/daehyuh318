@@ -13,9 +13,9 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh)
 <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ## 교육
-* **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
+* **(2023.03 ~ 2026.06) 한국외국어대학교 컴퓨터공학부**
   - **1학년 1학기 재학중**
-    + 2027년 졸업예정
+    + 2026년 졸업예정
 * **(2020.02 ~ 2023.01) 한양공업고등학교 컴퓨터네트워크전공**
   - **졸업**
 ## 활동
