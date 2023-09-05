@@ -13,7 +13,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh)
 <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ## 교육
-* **(2023.03 ~ 2026.06) 한국외국어대학교 컴퓨터공학부**
+* **(2023.03 ~ ) 한국외국어대학교 컴퓨터공학부**
   - **1학년 1학기 재학중**
     + 2026년 졸업예정
 * **(2020.02 ~ 2023.01) 한양공업고등학교 컴퓨터네트워크전공**
@@ -31,7 +31,7 @@
 * **[(2023 ~ ) 한국외국어대학교 동아리 HUFSTORY](https://www.facebook.com/storyhufs/)**
   - **부원**
 ## 경력
-* **[(2023.08 ~ ) 쓰리이디엇츠]**
+* **(2023.08 ~ ) 쓰리이디엇츠**
   - **CEO, 백엔드 인지니어**
 * **[(2021.09 ~ 2023.03) 비타소프트](http://www.vitasoft.co.kr/)**
   - **인공지능부, 소프트웨어 엔지니어**
