@@ -47,6 +47,9 @@
 |소프트웨어 공모전|2위|한양공업고등학교|2021년|
 |전공 영어 관련 알고리즘대회|2위|한양공업고등학교|2020년|
 |소프트웨어 공모전|1위|한양공업고등학교|2020년|
+
+<!--
+
 ## 프로젝트
 * **[(2022 ~ 2023) AI 기반의 전동운반차 자율주행 알고리즘 개발 (정부사업)](https://github.com/daehyuh/PatrascheProject)**
   - **Developer**
@@ -71,16 +74,16 @@
 * **[(2020) 코로나 자가진단 자동화 소프트웨어 개발](https://github.com/daehyuh/Corona-self-check-Auto)**
   - **PM, Developer**
     + 매일 아침 반복되는 코로나 자가진단을 자동화하는 소프트웨어 개발 프로젝트
-
+-->
 ## Contact me
 
-email : <rkdeown10@naver.com> <daehyuh@gmail.com>   
+email : <rkdeown10@naver.com> <daehyuh@gmail.com>  <daehyuh@hufs.ac.kr>
+
+<!-- 
 instagram : @daehyuh_
 <a href="https://instagram.com/daehyuh_">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/daehyuh_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/daehyuh_/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> -->
 
 <div align=center> 
   
