@@ -1,11 +1,5 @@
 ![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)
-<!--
-## 많은 경험을 통해서 경험치를 쌓아가고 있는 대현입니다.
-- **특성화고등학교 출신 주니어 개발자 입니다**
-- **더욱더 많은 경험을 만들기위해 새로운 시작과 함께 퇴사 후 대학교에 진학하였습니다**
-- **진학이후 할 수 있는 모든 경험을 해보고 있는 중입니다**
-  + **소프트웨어 마에스트로, 학회장, 동아리, 술자리/MT 등등...**
-### **이러한 모든 경험이 저의 경험치가 되고 있습니다**
+
 <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ![daehyuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh&show_icons=true&theme=tokyonight)
 ![daehyuh's profile](https://github-profile-trophy.vercel.app/?username=daehyuh&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)
