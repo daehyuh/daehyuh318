@@ -1,9 +1,6 @@
 ![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)
 
-<img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
-![daehyuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh&show_icons=true&theme=tokyonight)
-![daehyuh's profile](https://github-profile-trophy.vercel.app/?username=daehyuh&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)
--->
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh)
 <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ## 교육
