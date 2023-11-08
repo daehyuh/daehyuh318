@@ -1,8 +1,11 @@
-![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)
+<!--
+![](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=대현&fontSize=70&&fontColor=ffffff)
+-->
 
+# 비둘기 목 돌리는 코딩 장인
+<img src="https://github.com/daehyuh/daehyuh/assets/53990946/d54f6ac1-b60a-42d8-9333-b164627ebd19" width="30%" height="30%">  ![i014206349982](https://github.com/daehyuh/daehyuh/assets/53990946/118e83ce-81c5-4e13-a2f2-9cb7822d6095)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh)
-<img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh) <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ## 경력
 * **[(2023.08 ~ ) 쓰리이디엇츠](https://www.collecti.me/)**
   - **창업, CEO**
