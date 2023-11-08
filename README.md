@@ -3,6 +3,11 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh)
 <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
+## 경력
+* **[(2023.08 ~ ) 쓰리이디엇츠](https://www.collecti.me/)**
+  - **창업, CEO**
+* **[(2021.09 ~ 2023.03) 비타소프트](http://www.vitasoft.co.kr/)**
+  - **인공지능부, 소프트웨어 엔지니어**
 ## 교육
 * **(2023.03 ~ ) 한국외국어대학교 컴퓨터공학부**
   - **1학년 2학기 재학중**
@@ -21,11 +26,6 @@
     + 학회 설립
 * **[(2023 ~ ) 한국외국어대학교 동아리 HUFSTORY](https://www.facebook.com/storyhufs/)**
   - **부원**
-## 경력
-* **[(2023.08 ~ ) 쓰리이디엇츠](https://www.collecti.me/)**
-  - **스타트업, CEO**
-* **[(2021.09 ~ 2023.03) 비타소프트](http://www.vitasoft.co.kr/)**
-  - **인공지능부, 소프트웨어 엔지니어**
 ## 자격
 * **(2022) 정보처리산업기사**
 * **(2021) ITQ 인터넷, 아래한글**
