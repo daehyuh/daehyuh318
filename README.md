@@ -3,7 +3,7 @@
 -->
 
 # 비둘기 목 돌리는 코딩 장인
-<img src="https://github.com/daehyuh/daehyuh/assets/53990946/d54f6ac1-b60a-42d8-9333-b164627ebd19" width="30%" height="30%">  ![i014206349982](https://github.com/daehyuh/daehyuh/assets/53990946/118e83ce-81c5-4e13-a2f2-9cb7822d6095)
+<img src="https://github.com/daehyuh/daehyuh/assets/53990946/d54f6ac1-b60a-42d8-9333-b164627ebd19" width="34%" height="34%"> ![i014206349982](https://github.com/daehyuh/daehyuh/assets/53990946/118e83ce-81c5-4e13-a2f2-9cb7822d6095)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh) <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ## 경력
