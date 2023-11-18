@@ -22,7 +22,7 @@
   - **수료**
     + [14기 연수생 대표](https://n.news.naver.com/mnews/article/029/0002804625?sid=105)
     + 14기 팀 새싹들 팀장
-* **(2023 ~ ) GOOGLE DEVELOPER STUDENT CLUB HUFS**
+* **[(2023 ~ ) GOOGLE DEVELOPER STUDENT CLUB HUFS](https://gdsc.community.dev/hankuk-university-of-foreign-studies/)**
   - **Core Member**
 * **(2023 ~ ) 한국외국어대학교 컴퓨터공학부 학회 NC 1기**
   - **학회장**
