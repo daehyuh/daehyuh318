@@ -8,7 +8,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh) <img src="http://mazandi.herokuapp.com/api?handle=daehyuh&theme=cold"/>
 ## 경력
 * **[(2023.08 ~ ) 쓰리이디엇츠](https://www.collecti.me/)**
-  - **창업, CEO**
+  - **스타트업, CEO**
 * **[(2021.09 ~ 2023.03) 비타소프트](http://www.vitasoft.co.kr/)**
   - **인공지능부, 소프트웨어 엔지니어**
 ## 교육
