@@ -1,7 +1,9 @@
 # 강대현 Daehyun Kang
-* **Age : 19**
-* **Email : daehyuh@gmail.com**
+* **Name : Daehyun Kang**
+* **Address : 13, Macheon-ro 61ma-gil, Songpa-gu, Seoul, Republic of Korea**
 * **Phone : (+82) 5112-2413**
+* **Email : daehyuh@gmail.com**
+* **Age : 19**
 
 ## About Me
 
