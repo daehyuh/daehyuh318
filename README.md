@@ -1,4 +1,5 @@
 # 강대현 Daehyun Kang
+* **Age : 19**
 * **Email : daehyuh@gmail.com**
 * **Phone : (+82) 5112-2413**
 
