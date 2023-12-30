@@ -28,19 +28,23 @@
     * Mysql/MariaDB
     * Redis
     * Another*
+  * ETC
+    * Linux
+    * Docker
+    * Cloud
 * **Front-end**
   * HTML
   * CSS
   * JS
   * FrameWork
-    * no
+    * NO
 * **ETC**
   * Language
     * C/C++/C#
   * Cloud
     * AWS
     * OCI
-  
+
 ## Education
 * **Hankuk University of Foreign Studies**
   - Bachelor's degree, Computer Engineering
