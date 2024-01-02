@@ -81,9 +81,9 @@
 ## Award
 | 대회명                |주최|연도|
 |--------------------|---|---|
-| GDSC HUFSummer Hackathon 3위 |Hankuk University of Foreign Studies|2023|
-| 소프트웨어 공모전 1위        |Hanyang Technical High School|2022|
-| 전공 영어 관련 알고리즘대회 1위  |Hanyang Technical High School|2021|
-| 소프트웨어 공모전 2위       |Hanyang Technical High School|2021|
-| 전공 영어 관련 알고리즘대회 2위  |Hanyang Technical High School|2020|
-| 소프트웨어 공모전 1위        |Hanyang Technical High School|2020|
+| GDSC HUFSummer Hackathon 3위 |Hankuk University of Foreign Studies|2023.06|
+| 소프트웨어 공모전 1위        |Hanyang Technical High School|2022.07|
+| 전공 영어 관련 알고리즘대회 1위  |Hanyang Technical High School|2021.10|
+| 소프트웨어 공모전 2위       |Hanyang Technical High School|2021.07|
+| 전공 영어 관련 알고리즘대회 2위  |Hanyang Technical High School|2020.11|
+| 소프트웨어 공모전 1위        |Hanyang Technical High School|2020.08|
