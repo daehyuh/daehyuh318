@@ -3,7 +3,7 @@
 * **Address : 13, Macheon-ro 61ma-gil, Songpa-gu, Seoul, Republic of Korea**
 * **Phone : (+82) 5112-2413**
 * **Email : daehyuh@gmail.com**
-* **Age : 19**
+* **Age : 20**
 
 ## About Me
 2020년도에 **한양공업고등학교**를 입학하여 **컴퓨터네트워크**를 전공하며</br>
