@@ -64,8 +64,8 @@
   - 창업
   - 2023 ~ 현재
 * **[소프트웨어 마에스트로 14기](https://www.swmaestro.org/)**
-  + 쓰리이디엇츠 ⊂ 새싹들 팀장
   + 프로젝트 [컬렉타임 collecti.me](https://collecti.me)
+  + 2023 - 2024
 * **[GOOGLE DEVELOPER STUDENT CLUB HUFS](https://gdsc.community.dev/hankuk-university-of-foreign-studies/)**
   - Core Member
   - 2023 - 2024
