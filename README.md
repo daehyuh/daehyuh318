@@ -3,10 +3,10 @@
 # 교육
 ### **한국외국어대학교 컴퓨터공학부 학사**
   - 2023 - 2027
-    + [한국외국어대학교 컴퓨터공학부 NC 학회](https://hufsnc.com)
+    + **[한국외국어대학교 컴퓨터공학부 NC 학회](https://hufsnc.com)**
       + 학회장
       + 2023 - 2024
-    + [한국외국어대학교 IT자치기구 HUFSTORY](https://www.facebook.com/storyhufs/)
+    + **[한국외국어대학교 IT자치기구 HUFSTORY](https://www.facebook.com/storyhufs/)**
       + 부원
       + 2023 - 2024
 ### **한양공업고등학교 컴퓨터네트워크과**
