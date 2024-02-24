@@ -22,7 +22,7 @@
   - Core Member
   - 2023 - 2024
 * **[(주)비타소프트](http://www.vitasoft.co.kr/)**
-  - Software Engineer
+  - Software Developer
   - 2021 - 2023
 # 자격
 * **정보처리산업기사**
