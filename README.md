@@ -16,7 +16,7 @@
   - 창업
   - 2023 ~ 현재
 * **[소프트웨어 마에스트로 14기 수료생](https://www.swmaestro.org/)**
-  + [컬렉타임](https://collecti.me)
+  + 새싹들 - [컬렉타임](https://collecti.me)
   + 2023 - 2024
 * **[GOOGLE DEVELOPER STUDENT CLUB HUFS](https://gdsc.community.dev/hankuk-university-of-foreign-studies/)**
   - Core Member
