@@ -11,19 +11,21 @@
       + 2023 - 2024
 ### **한양공업고등학교 컴퓨터네트워크과 졸업**
   - 2020 - 2023
-# 경험
+# 경력
 * **[쓰리이디엇츠 ⊂ 새싹들](https://www.collecti.me/)**
   - 창업
   - 2023 ~ 현재
+* **[(주)비타소프트](http://www.vitasoft.co.kr/)**
+  - Software Developer
+  - 2021 - 2023
+# 경험
+* **[화이트햇 스쿨 2기 연수생](https://www.collecti.me/)**
+  - 2024 ~ 현재
 * **[소프트웨어 마에스트로 14기 수료생](https://www.swmaestro.org/)**
-  + 새싹들 - [컬렉타임](https://collecti.me)
   + 2023 - 2024
 * **[GOOGLE DEVELOPER STUDENT CLUB HUFS](https://gdsc.community.dev/hankuk-university-of-foreign-studies/)**
   - Core Member
   - 2023 - 2024
-* **[(주)비타소프트](http://www.vitasoft.co.kr/)**
-  - Software Developer
-  - 2021 - 2023
 # 자격
 * **정보처리산업기사**
   * 한국산업인력공단
