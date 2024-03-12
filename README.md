@@ -3,13 +3,7 @@
 # 교육
 ### **한국외국어대학교 컴퓨터공학부 학사**
   - 2023 - 2027
-    + **[한국외국어대학교 컴퓨터공학부 NC 학회](https://hufsnc.com)**
-      + 학회장
-      + 2023 - 2024
-    + **[한국외국어대학교 IT자치기구 HUFSTORY](https://www.facebook.com/storyhufs/)**
-      + 부원
-      + 2023 - 2024
-### **한양공업고등학교 컴퓨터네트워크과 졸업**
+### **한양공업고등학교 컴퓨터네트워크과**
   - 2020 - 2023
 # 경력
 * **[쓰리이디엇츠 ⊂ 새싹들](https://www.collecti.me/)**
@@ -19,9 +13,17 @@
   - Software Developer
   - 2021 - 2023
 # 경험
-* **[화이트햇 스쿨 2기 연수생](https://www.collecti.me/)**
-  - 2024 ~ 현재
-* **[소프트웨어 마에스트로 14기 수료생](https://www.swmaestro.org/)**
+* **[화이트햇 스쿨 2기](https://www.collecti.me/)**
+  + 연수생
+  + 2024 ~ 현재
+* **[소프트웨어 마에스트로 14기](https://www.swmaestro.org/)**
+  + 연수생
+  + 2023 - 2024
+* **[한국외국어대학교 컴퓨터공학부 NC 학회 1기](https://hufsnc.com)**
+  + 학회장
+  + 2023 - 2024
+* **[한국외국어대학교 IT자치기구 HUFSTORY](https://www.facebook.com/storyhufs/)**
+  + 부원
   + 2023 - 2024
 * **[GOOGLE DEVELOPER STUDENT CLUB HUFS](https://gdsc.community.dev/hankuk-university-of-foreign-studies/)**
   - Core Member
