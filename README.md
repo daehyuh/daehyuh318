@@ -1,8 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=강대현%20&fontSize=70&&fontColor=ffffff)
 
 # 교육
-### **한국외국어대학교 컴퓨터공학부 학사**
-  + 23학번
+### **한국외국어대학교 컴퓨터공학부 23학번**
   - 2023 - 2027
 ### **한양공업고등학교 컴퓨터네트워크과**
   - 2020 - 2023
