@@ -8,7 +8,7 @@
 # 경력
 * **[쓰리이디엇츠](https://www.collecti.me/)**
   - 창업
-  - 2023 ~ 현재
+  - 2023 ~ 2024
 * **[비타소프트](http://www.vitasoft.co.kr/)**
   - Software Developer
   - 2021 - 2023
