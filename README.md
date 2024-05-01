@@ -13,7 +13,7 @@
   - Software Developer
   - 2021 - 2023
 # 경험
-* **[화이트햇 스쿨 2기](https://www.collecti.me/)**
+* **[화이트햇 스쿨 2기](https://whitehatschool.kr/)**
   + 연수생
   + 2024 ~ 현재
 * **[소프트웨어 마에스트로 14기](https://www.swmaestro.org/)**
