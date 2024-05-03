@@ -7,7 +7,7 @@
   - 2020 - 2023
 # 경력
 * **[쓰리이디엇츠](https://www.collecti.me/)**
-  - 창업
+  - Project Lead
   - 2023 ~ 2024
 * **[비타소프트](http://www.vitasoft.co.kr/)**
   - Software Developer
