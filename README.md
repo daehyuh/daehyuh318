@@ -30,7 +30,7 @@
 - (2022) 정보처리산업기사
 
 ### Awards
-- (2023.06) HUFSummer Hackathon - #3
+- (2023.06) Hankuk University of Foreign Studies HUFSummer Hackathon - #3
 - (2022.06) Hanyang Technical High School Software Contest - #1
 - (2021.10) Hanyang Technical High School Algorithm Contest - #1
 - (2021.07) Hanyang Technical High School Software Contest - #2
