@@ -4,7 +4,7 @@
 
 ### Programming
 #### I'm interested in Backend Development and Project Management.
-- I`m mainly use Java, Kotlin with Spring Boot. 
+- I'm mainly use Java, Kotlin with Spring Boot. 
 - I'm also very interested in planning new projects.
 
 ### Algorithm
