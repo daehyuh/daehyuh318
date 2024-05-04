@@ -1,43 +1,38 @@
-![](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=강대현%20&fontSize=70&&fontColor=ffffff)
-  
-# 교육
-### **한국외국어대학교 컴퓨터공학과**
-  - 2023 - 2027
-### **한양공업고등학교 컴퓨터네트워크과**
-  - 2020 - 2023
-# 경력
-* **[쓰리이디엇츠](https://www.collecti.me/)**
-  - Project Lead
-  - 2023 ~ 2024
-* **[비타소프트](http://www.vitasoft.co.kr/)**
-  - Software Developer
-  - 2021 - 2023
-# 경험
-* **[화이트햇 스쿨 2기](https://whitehatschool.kr/)**
-  + 연수생
-  + 2024 ~ 현재
-* **[소프트웨어 마에스트로 14기](https://www.swmaestro.org/)**
-  + 연수생
-  + 2023 - 2024
-* **[한국외국어대학교 컴퓨터공학부 NC 학회 1기](https://hufsnc.com)**
-  + 학회장
-  + 2023 - 2024
-* **[한국외국어대학교 IT자치기구 HUFSTORY](https://www.facebook.com/storyhufs/)**
-  + 부원
-  + 2023 - 2024
-* **[GOOGLE DEVELOPER STUDENT CLUB HUFS](https://gdsc.community.dev/hankuk-university-of-foreign-studies/)**
-  - Core Member
-  - 2023 - 2024
-# 자격
-* **정보처리산업기사**
-  * 한국산업인력공단
-  * 2022
-# 수상
-| 대회명                |주최|연도|
-|--------------------|---|---|
-| GDSC HUFSummer Hackathon 3위 |한국외국어대학교|2023.06|
-| 소프트웨어 공모전 1위        |한양공업고등학교|2022.07|
-| 전공 영어 관련 알고리즘대회 1위  |한양공업고등학교|2021.10|
-| 소프트웨어 공모전 2위       |한양공업고등학교|2021.07|
-| 전공 영어 관련 알고리즘대회 2위  |한양공업고등학교|2020.11|
-| 소프트웨어 공모전 1위        |한양공업고등학교|2020.08|
+# Daehyun Kang
+
+## Skills
+
+### Programming
+#### I'm interested in Backend Development and Project Management.
+- I`m mainly use Java, Kotlin with Spring Boot. 
+- I'm also very interested in planning new projects.
+
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh)](https://solved.ac/profile/daehyuh)
+
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/daehyuh) ([solved.ac](https://solved.ac/profile/daehyuh))
+
+### Education
+- (2023. 3 - ) Hankuk University of Foreign Studies - Bachelor of Computer Science and Engineering
+- (2020. 3 - 2023. 1) Hanyang Technical High School - Major of Computer Network
+
+
+### Work Experience
+- (2021. 9 - 2023. 1) [비타소프트](http://www.vitasoft.co.kr/) - Software Developer
+
+### Activities
+- (2024.04 - ) [Whitehat School 2th](https://whitehatschool.kr/) - Tem 포도청 (Project [포도청](https://github.com/WHS-GREANGRAPE-PROJECT)])
+- (2023.07 - ) [GDSC HUFS 5th](https://gdsc.community.dev/hankuk-university-of-foreign-studies/) - Core Member
+- (2023.04 - 2023.11) [Software Maestro 14th](https://www.swmaestro.org/sw/main/main.do) - Team 새싹들 (Project [Collectime](https://github.com/SWM-Collectime))
+
+
+### License
+- (2022) 정보처리산업기사
+
+### Awards
+- (2023.06) HUFSummer Hackathon - #3
+- (2022.06) Hanyang Technical High School Software Contest - #1
+- (2021.10) Hanyang Technical High School Algorithm Contest - #1
+- (2021.07) Hanyang Technical High School Software Contest - #2
+- (2020.11) Hanyang Technical High School Algorithm Contest - #2
+- (2020.08) Hanyang Technical High School Software Contest - #1
