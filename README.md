@@ -18,7 +18,7 @@
 
 
 ### Work Experience
-- (2021. 9 - 2023. 1) [비타소프트](http://www.vitasoft.co.kr/) - Software Developer
+- (2021. 9 - 2023. 1) [(주)비타소프트](http://www.vitasoft.co.kr/) - Software Developer
 
 ### Activities
 - (2024.04 - ) [Whitehat School 2th](https://whitehatschool.kr/) - Tem 포도청 (Project [포도청](https://github.com/WHS-GREANGRAPE-PROJECT)])
