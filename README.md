@@ -31,8 +31,3 @@
 
 ### Awards
 - (2023.06) Hankuk University of Foreign Studies HUFSummer Hackathon - #3
-- (2022.06) Hanyang Technical High School Software Contest - #1
-- (2021.10) Hanyang Technical High School Algorithm Contest - #1
-- (2021.07) Hanyang Technical High School Software Contest - #2
-- (2020.11) Hanyang Technical High School Algorithm Contest - #2
-- (2020.08) Hanyang Technical High School Software Contest - #1
