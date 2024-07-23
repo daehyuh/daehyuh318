@@ -1,4 +1,6 @@
 # Daehyun Kang
+- email : daehyuh@hufs.ac.kr
+- linkedin : https://www.linkedin.com/in/daehyuh/
 
 ## Skills
 
