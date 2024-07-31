@@ -1,35 +1,42 @@
-# Daehyun Kang
-- email : daehyuh@hufs.ac.kr
-- linkedin : https://www.linkedin.com/in/daehyuh/
+# 강대현
+- 💬 강대현 :https://www.linkedin.com/in/daehyuh
+- 💌 Email : daehyuh@gmail.com
+- ⭐️ Instagram : [@daehyuh_](https://www.instagram.com/daehyuh)
 
-## Skills
+## 경력 사항
+- GDSC HUFS 2024-2025 CORE MEMBER 
+    - 2024년 7월 - 현재
+- GDSC HUFS 2023-2024 CORE MEMBER
+    - 2023년 6월 - 2024년 7월
+    - [2024 Google Solution Challenge Project](https://github.com/GDSC-Readbook)
+- KITRI 차세대 보안리더 WhiteHat School 교육생
+    - 2024년 3월 - 현재
+    - [포도청 - 한국형 USER NAME OSINT 도구 개발](https://github.com/Grape-Office)
+- 쓰리이디엇츠 대표
+    - 2023년 8월 - 2024년 6월
+    - [컬렉타임 - 최적의 모임 일정 조율 서비스](https://github.com/swm-collectime)
+- SW마에스트로 14기 수료
+    - 2023년 3월 - 2023년 12월
+    - [SW마에스트로 14기 대표 선서](https://dt.co.kr/contents.html?article_no=2023060202109931081001)
+- 비타소프트 Software Engineer
+    - 2021년 9월 - 2023년 3월
+    - AI Team
+## 학력
+- 한국외국어대학교
+    - 컴퓨터공학부 학사
+- 한양공업고등학교
+    - 컴퓨터네트워크과 전공
 
-### Programming
-#### I'm interested in Backend Development and Project Management.
-- I mainly use Java, Kotlin with Spring Boot. 
-- and I interested in planning new projects.
+## 자격증/수료증
+- TOPCIT 401점
+    - 2023년 10월
+- 정보처리산업기사
+    - 2022년 9월
 
-### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daehyuh)](https://solved.ac/profile/daehyuh)
-
-- [Baekjoon Online Judge](https://www.acmicpc.net/user/daehyuh) ([solved.ac](https://solved.ac/profile/daehyuh))
-
-### Education
-- (2023. 3 - ) Hankuk University of Foreign Studies - Bachelor of Computer Science and Engineering
-- (2020. 3 - 2023. 1) Hanyang Technical High School - Major of Computer Network
-
-
-### Work Experience
-- (2021. 9 - 2023. 1) [(주)비타소프트](http://www.vitasoft.co.kr/) - Software Developer
-
-### Activities
-- (2024.04 - ) [Whitehat School 2th](https://whitehatschool.kr/) - Tem 포도청 (Project [포도청](https://github.com/WHS-GREANGRAPE-PROJECT)])
-- (2023.07 - ) [GDSC HUFS 5th](https://gdsc.community.dev/hankuk-university-of-foreign-studies/) - Core Member
-- (2023.04 - 2023.11) [Software Maestro 14th](https://www.swmaestro.org/sw/main/main.do) - Team 새싹들 (Project [Collectime](https://github.com/SWM-Collectime))
-
-
-### License
-- (2022) 정보처리산업기사
-
-### Awards
-- (2023.06) Hankuk University of Foreign Studies HUFSummer Hackathon - #3
+## 수상 경력
+- 2024 HUFSummer Hackathon 대상 1위
+    - 2024년 6월
+    - [HUFamilyS(한식구) - 한사람의 건강식품 공동구매 서비스](https://github.com/HUFamilyS)
+- 2023 HUFSummer Hackathon 우수상 3위
+    - 2023년 6월
+    - [HUFSLaundry - 외대 기숙사 세탁기 관리 서비스](https://github.com/HUFSLaundry)
