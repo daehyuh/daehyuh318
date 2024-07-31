@@ -4,18 +4,19 @@
 - ⭐️ Instagram : [@daehyuh_](https://www.instagram.com/daehyuh_)
 
 ## 경력 사항
-- GDSC HUFS 2024-2025 CORE MEMBER 
-    - 2024년 7월 - 현재
-- GDSC HUFS 2023-2024 CORE MEMBER
-    - 2023년 6월 - 2024년 7월
-    - [2024 Google Solution Challenge Project](https://github.com/GDSC-Readbook)
-- KITRI 차세대 보안리더 WhiteHat School 교육생
+- Google Developer Student Clubs
+    - GDSC HUFS 2024-2025 코어멤버
+        - 2024년 7월 - 현재
+    - GDSC HUFS 2023-2024 코어멤버
+        - 2023년 6월 - 2024년 7월
+        - [2024 Google Solution Challenge Project](https://github.com/GDSC-Readbook)
+- KITRI 차세대 보안리더 WhiteHat School 2기 교육생
     - 2024년 3월 - 현재
     - [포도청 - 한국형 USER NAME OSINT 도구 개발](https://github.com/Grape-Office)
 - 쓰리이디엇츠 대표
     - 2023년 8월 - 2024년 6월
     - [컬렉타임 - 최적의 모임 일정 조율 서비스](https://github.com/swm-collectime)
-- SW마에스트로 14기 수료
+- SW마에스트로 14기 수료생
     - 2023년 3월 - 2023년 12월
     - [SW마에스트로 14기 대표 선서](https://dt.co.kr/contents.html?article_no=2023060202109931081001)
 - 비타소프트 Software Engineer
