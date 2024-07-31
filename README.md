@@ -1,7 +1,7 @@
 # 강대현
 - 💬 강대현 :https://www.linkedin.com/in/daehyuh
 - 💌 Email : daehyuh@gmail.com
-- ⭐️ Instagram : [@daehyuh_](https://www.instagram.com/daehyuh)
+- ⭐️ Instagram : [@daehyuh_](https://www.instagram.com/daehyuh_)
 
 ## 경력 사항
 - GDSC HUFS 2024-2025 CORE MEMBER 
