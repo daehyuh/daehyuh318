@@ -18,7 +18,7 @@
     - [컬렉타임 - 최적의 모임 일정 조율 서비스](https://github.com/swm-collectime)
 - SW마에스트로 14기 수료생
     - 2023년 3월 - 2023년 12월
-    - [SW마에스트로 14기 대표 선서](https://dt.co.kr/contents.html?article_no=2023060202109931081001)
+    - [SW마에스트로 14기 연수생 대표](https://dt.co.kr/contents.html?article_no=2023060202109931081001)
 - 비타소프트 Software Engineer
     - 2021년 9월 - 2023년 3월
     - AI Team
