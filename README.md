@@ -3,7 +3,7 @@
 - 💌 Email : daehyuh@gmail.com
 - ⭐️ Instagram : [@daehyuh_](https://www.instagram.com/daehyuh_)
 
-## 경력 사항
+## 경험
 - Google Developer Student Clubs
     - GDSC HUFS 2024-2025 코어멤버
         - 2024년 7월 - 현재
