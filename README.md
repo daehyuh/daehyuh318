@@ -1,5 +1,7 @@
 # 강대현
-- 💬 강대현 :https://www.linkedin.com/in/daehyuh
+- 💬 강대현
+    - https://github.com/daehyuh
+    - https://www.linkedin.com/in/daehyuh
 - 💌 Email : daehyuh@gmail.com
 - ⭐️ Instagram : [@daehyuh_](https://www.instagram.com/daehyuh_)
 
