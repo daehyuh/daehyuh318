@@ -6,12 +6,11 @@
 - ⭐️ Instagram : [@daehyuh_](https://www.instagram.com/daehyuh_)
 
 ## 경험
-- Google Developer Student Clubs
-    - GDSC HUFS 2024-2025 코어멤버
-        - 2024년 7월 - 현재
-    - GDSC HUFS 2023-2024 코어멤버
-        - 2023년 6월 - 2024년 7월
-        - [2024 Google Solution Challenge Project](https://github.com/GDSC-Readbook)
+- Google Developer Group On Campus HUFS
+    - 2024-2025 코어멤버
+- Google Developer Student Clubs HUFS
+    - 2023-2024 코어멤버
+    - [2024 Google Solution Challenge Project](https://github.com/GDSC-Readbook)
 - KITRI 차세대 보안리더 WhiteHat School 2기 교육생
     - 2024년 3월 - 현재
     - [포도청 - 한국형 USER NAME OSINT 도구 개발](https://github.com/Grape-Office)
